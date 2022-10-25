@@ -18,6 +18,5 @@ int i, j;
 			_putchar(j % 10 + '0');
 		}
 			_putchar('\n');
-
 		}
 }
