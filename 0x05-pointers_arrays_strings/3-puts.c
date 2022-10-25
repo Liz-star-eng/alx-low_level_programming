@@ -1,11 +1,11 @@
-include "main.h"
+#include "main.h"
 
 /**
- * _puts - prints a string
- * @str: the string
- *
- * Return: the length of the string
+ * _puts - a function that prints a string stdout.
+ * @str: an input string variable pointing to type char
+ * Return: Nothing
  */
+
 void _puts(char *str)
 {
 	int i = 0;
